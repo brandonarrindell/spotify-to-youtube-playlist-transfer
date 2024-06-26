@@ -1,4 +1,4 @@
-# Spotify to YouTube Music Transfer
+# Spotify to YouTube Playlist Transfer
 
 This application allows you to transfer your Spotify playlists to YouTube Music. It uses the Spotify API and YouTube Music API to fetch and transfer playlists.
 
